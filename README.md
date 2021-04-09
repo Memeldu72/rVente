@@ -1,7 +1,7 @@
 # rVente
 Menu pour acheter des armes 
 
-Vente d'arme en RageUI V2 beaucoup plus opti que la V1.
+Vente d'arme en RageUI V2.
 Le script est aussi protégé contre les dumpers et les cheaters un grand merci à Kadir#6400.
 
 Pour que le menu fonctionne il vous faut bien sûr es_Extended.
